@@ -1,0 +1,45 @@
+header {
+  background-color: #000000;
+}
+.boxbild {
+  width: 15%;
+  height: auto;
+  left: 15px;
+  top: 20px;
+}
+.coin {
+  width: 15%;
+  height: auto;
+  padding-left: 1045px;
+}
+.cutie {
+  width: 30%;
+  height: auto;
+  position: absolute;
+  left: 535px;
+}
+.heading {
+  font-family: "Helvetica";
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.subheading {
+  font-family: "Helvetica";
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+p {
+  font-family: "Helvetica";
+  color: #000000;
+  text-align: center;
+}
+.p5Canvas {
+  position: absolute;
+  padding-bottom: 50px;
+}
+#defaultCanvas0 {
+  left: 20%;
+}
